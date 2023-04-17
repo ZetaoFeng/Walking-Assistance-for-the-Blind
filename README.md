@@ -158,6 +158,10 @@ The code can be extended to control other devices or take further actions when a
 
 Step1. Login to Raspberry Pi Machine and Clone the repository
 
+```cpp
+cd home/final demo
+ ```
+
 Step2. Install Libraries
 
 Step3. Install and Biuld
